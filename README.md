@@ -321,17 +321,17 @@ This review should list as many manufacturers and technical charasterictis of th
  * Cost: ?
  * Remarks:
 
-###  iRedStar 1Gbps
+###  iRedStar 1Gbps light / iRedStar 1Gbps autotracking
  * Website:  http://jv-shop.eu/index.php?route=product/product&path=20&product_id=88
- * Developed by: [JV Labs](http://www.jv-labs.eu/)
- * Throughput: 1 Gbpos
+ * Developed by: [JV-Labs.EU ltd.] (http://www.jv-labs.eu/)
+ * Throughput: 1 Gbps
  * Distance: up to 400m (700m when tracked)
  * Wavelength: 850 nm
  * Beam divergence: 1mrad
  * Transmit power:  40mW Class 1M according to EN 60825-12
- * Aperture: 90mm
+ * Aperture: 90mm (Rx Maksutov-Cassegrain Optical System) Tx ( 50mm lens )
  * Motorized alignment and auto-tracking: no/yes
- * Cost: ?
+ * Cost: 2850€ (light version) /  3489€ (autotracking version)
  * Remarks:
 
 ### CBL
